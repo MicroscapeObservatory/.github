@@ -1,4 +1,4 @@
-**Overview:** A core mission of the Institute for Comparative Genomics (ICG) is to train future generations of biodiversity scientists within a collaborative and inclusive program that places a high value on science communication, community outreach and positive social change.  To support this the ICG Microscope Observatory Program (ICG-MOP) will generate microbial data in support of both basic research and community science outreach.  
+**Overview:** A core mission of the [Institute for Comparative Genomics (ICG)](https://icgenomics.ca/) is to train future generations of biodiversity scientists within a collaborative and inclusive program that places a high value on science communication, community outreach and positive social change.  To support this the ICG Microscope Observatory Program (ICG-MOP) will generate microbial data in support of both basic research and community science outreach.  
 
 **The MOSOM platform:** The Microbial Observatory Science Outreach Modules (MOSOMs) are open-source educational modules that unify the scientific, educational and outreach objectives of the ICG.  
 
