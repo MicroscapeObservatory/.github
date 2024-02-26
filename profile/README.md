@@ -10,4 +10,4 @@
 *	Track the prevalence of selected microbial taxa with significance to society (e.g., toxin producing cyanobacteria, antibiotic resistant bacteria, etc.).
 *	Train students, educators, and general public to participate in citizen science.
 
-**Get started:** Want to get started?  Go direct to [our wiki pages] (https://github.com/MicroscapeObservatory/Tutorials/wiki).
+**Get started:** Want to get started?  Go direct to [our wiki pages](https://github.com/MicroscapeObservatory/Tutorials/wiki).
