@@ -1,12 +1,15 @@
 ## Hi there 👋
 
 <!--
+**Overview:** A core mission of the Institute for Comparative Genomics (ICG) is to train future generations of biodiversity scientists within a collaborative and inclusive program that places a high value on science communication, community outreach and positive social change.  To support this the ICG Microscope Observatory Program (ICG-MOP) will generate microbial data in support of both basic research and community science outreach.  
 
-**Here are some ideas to get you started:**
+**The MOSOM platform:** The Microbial Observatory Science Outreach Modules (MOSOMs) are open-source educational modules that unify the scientific, educational and outreach objectives of the ICG.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+**Goals:**
+* Improve public science literacy.
+* Actively support historically underrepresented students in science.
+*	Provide an open platform for using on-going ICG-MOP data collection for science education.
+*	Conduct on-going assessment of Nova Scotian microbial diversity in time and space.
+*	Track the prevalence of selected microbial taxa with significance to society (e.g., toxin producing cyanobacteria, antibiotic resistant bacteria, etc.).
+*	Train students, educators, and general public to participate in citizen science.
 -->
