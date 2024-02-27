@@ -13,4 +13,4 @@ The Microbial Observatory Science Outreach Modules (MOSOMs) are open-source educ
 *	Train students, educators, and general public to participate in citizen science.
 <br><br>
 
-## **Get started:** _Want to get started?  Go direct to [our wiki pages](https://github.com/MicroscapeObservatory/Tutorials/wiki)._
+## _Want to get started?  Go direct to [our wiki pages](https://github.com/MicroscapeObservatory/Tutorials/wiki)._
